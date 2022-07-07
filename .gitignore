@@ -1,0 +1,50 @@
+### Dependencies & Artifacts ###
+
+/dist
+
+node_modules/
+.sass-cache/
+.cache-loader/
+
+### Log Files ###
+
+logs/
+*_log
+*.log
+*.log*
+
+### Archives ###
+
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+
+### Tooling ###
+
+coverage/
+.husky/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.phpintel/
+.atom/
+.idea/
+
+### System Files ###
+
+.DS_Store*
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.un~

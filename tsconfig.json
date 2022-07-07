@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es2018",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": false,
+        "allowJs": true,
+        "checkJs": true,
+        "strictNullChecks": true,
+        "types": ["node"],
+        "strict": true
+    },
+    "include": ["src/**/*.ts", "src/**/*.js"]
+}
