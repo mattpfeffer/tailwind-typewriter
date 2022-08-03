@@ -1,6 +1,6 @@
 {
     "name": "tailwind-typewriter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A plugin for Tailwind CSS that generates typewriter style text animations in pure CSS.",
     "main": "dist/index.js",
     "author": "Matt Pfeffer (https://github.com/mattpfeffer)",
