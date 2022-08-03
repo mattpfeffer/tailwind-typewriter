@@ -1,6 +1,7 @@
 ### Dependencies & Artifacts ###
 
-/dist
+/dist/*
+!/dist/index.js
 
 node_modules/
 .sass-cache/
